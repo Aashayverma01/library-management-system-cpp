@@ -54,7 +54,7 @@ Error handling for invalid operations
    - User interacts with the system through a loop-based menu
    - Enhances usability and interaction
 
-## 🚀 How to Run
+## How to Run
 ```bash
 g++ library.cpp -o output
 .\output.exe
