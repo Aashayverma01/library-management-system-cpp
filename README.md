@@ -7,19 +7,19 @@ A C++-based library management system implementing DSA concepts for efficient bo
 ## Overview
  This project simulates a basic library system where books can be added, searched, issued, and returned. It demonstrates fundamental Data Structures and Object-Oriented Programming concepts in C++.
 
-## 🎯 Objective
+## Objective
  
 Understand how data structures are applied in real-world scenarios
 Implement a structured system using classes and dynamic storage
 Simulate real-life library workflows in a simplified environment
 
-## ⚙️ Features
+## Features
 Simple and intuitive interface
 Efficient data handling using vectors
 Clear separation of logic using classes
 Error handling for invalid operations
 
-## 🧠 Concepts Used
+## Concepts Used
 
 1. Object-Oriented Programming (OOP)
    - Classes and objects are used to model real-world entities
